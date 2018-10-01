@@ -217,7 +217,7 @@ Minimum required xml markup for the `browserconfig.xml` file is as follows:
 
 * [ ] **RSS feed:** ![Low][low_img] If your project is a blog or has articles, an RSS link was provided.
 
-* [ ] **CSS Critical:** ![Medium][medium_img] The CSS critical (or "above the fold") collects all the CSS used to render the visible portion of the page. It is embedded before your principal CSS call and between `<style></style>` in a single line (minified).
+* [x] **CSS Critical:** ![Medium][medium_img] The CSS critical (or "above the fold") collects all the CSS used to render the visible portion of the page. It is embedded before your principal CSS call and between `<style></style>` in a single line (minified).
 
 > * 🛠 [Critical by Addy Osmani on GitHub](https://github.com/addyosmani/critical) automates this.
 
